@@ -5,7 +5,7 @@
 Для початку, склонуйте репозиторій із шаблоном собі на комп'ютер:
 
 ```bash
-git clone https://github.com/volodymyrlogika/django_template.git
+git clone https://github.com/KuthikBohdan1/django_postgres_docker_template
 ```
 
 #### 2\. Створення нового проєкту
